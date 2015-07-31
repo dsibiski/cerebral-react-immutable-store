@@ -2,7 +2,7 @@
   THIS IS THE CEREBRAL-REACT-IMMUTABLE-STORE CONTROLLER IMPLEMENTATION
 */
 var cerebral = require('cerebral');
-var React = require('react');
+var React = require('react-native');
 var Store = require('immutable-store');
 var EventEmitter = require('events').EventEmitter;
 

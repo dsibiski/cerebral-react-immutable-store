@@ -27,7 +27,8 @@
     "react": "^0.13.3"
   },
   "dependencies": {
-    "cerebral": "^0.13.2"
+    "cerebral": "dsibiski/cerebral#react-native",
+    "events": "^1.0.2"
   },
   "devDependencies": {
     "node-libs-browser": "^0.5.2",
